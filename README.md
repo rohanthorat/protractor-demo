@@ -1,2 +1,2 @@
 # protractor-demo
-Playing around with Proctractor
+Switch to branch demo to get a working code.
